@@ -1,3 +1,3 @@
-# projects
+# Welcome to my projects page! The notebooks should open in browser, though sometimes this fails due to a github bug (if so, you can download them and view them locally). 
 
-# https://www.kaggle.com/edvinmemet
+# Also, here is my kaggle profile: https://www.kaggle.com/edvinmemet
