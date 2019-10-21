@@ -1,3 +1,3 @@
 # projects
 
-https://www.kaggle.com/edvinmemet
+# https://www.kaggle.com/edvinmemet
